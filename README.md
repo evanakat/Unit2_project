@@ -1,2 +1,1 @@
-# Unit2 Project
-General Assembly Unit 2 Project
+Unit 2 Project for Part-Time Data Science Course through General Assembly
