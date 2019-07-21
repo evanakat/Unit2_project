@@ -1,2 +1,2 @@
-# Unit2_project
+# Unit2 Project
 General Assembly Unit 2 Project
